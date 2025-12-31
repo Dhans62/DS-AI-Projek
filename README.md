@@ -1,7 +1,7 @@
 # DS-AI v4.1 ARCHITECT & VISION
 
 ## Deskripsi Singkat
-DS-AI v4.1 adalah sistem asisten pengembangan perangkat lunak otonom yang dirancang khusus untuk berjalan di lingkungan Termux. Sistem ini mengintegrasikan kecerdasan buatan multimodal (Gemini Vision) dengan kemampuan manajemen file lokal dan eksekusi perintah terminal untuk mempercepat pengembangan aplikasi Flutter dan otomotif (ECU Dashboard).
+DS-AI v4.1 adalah sistem asisten pengembangan perangkat lunak otonom yang dirancang khusus untuk berjalan di lingkungan Termux. Sistem ini mengintegrasikan kecerdasan buatan multimodal (Gemini Vision) dengan kemampuan manajemen file lokal dan eksekusi perintah terminal untuk mempercepat pengembangan aplikasi Flutter dam bahasa pemrograman lainnya.
 
 ## Fitur Utama
 1. Arsitektur Hybrid: Menggabungkan model Gemini (Vision) untuk analisis gambar dan Groq/Llama untuk kecepatan pemrosesan teks.
