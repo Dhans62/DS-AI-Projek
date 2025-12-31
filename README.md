@@ -19,14 +19,18 @@ Jalankan perintah berikut untuk memastikan repositori dan paket dasar terinstal:
 ```bash
 pkg update && pkg upgrade -y
 ```
-```pkg install python git tmux nano -y```
-```termux-setup-storage```
+```bash
+pkg install python git tmux nano -y'''
+```bash
+termux-setup-storage```
 
 ### 2. Instalasi Dependensi Sistem
 Instalasi pustaka pengolah gambar dan pustaka pendukung Python:
 
-```pkg install python-pillow -y```
-```pip install flask requests```
+```bash
+pkg install python-pillow -y```
+```bash
+pip install flask requests```
 
 ### 3. Konfigurasi Proyek
 Kloning atau buat direktori kerja dan siapkan struktur folder yang diperlukan:
